@@ -1,1 +1,1 @@
-# dotnet-sample-service
+# DotnetSampleService
